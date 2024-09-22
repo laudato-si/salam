@@ -1,12 +1,12 @@
 {
-    "id": "/salam",
+    "id": "salam",
     "name": "Salam",
     "short_name": "Salam",
     "start_url": "/salam",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "description": "A brief description of your app.",
+    "description": "Salam",
     "icons": [
         {
             "src": "pwa-64x64.png",

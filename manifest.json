@@ -5,6 +5,7 @@
     "start_url": "/salam/",
     "scope": "/salam/",
     "display": "standalone",
+    "gcm_sender_id": "482941778795",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "description": "Salam",

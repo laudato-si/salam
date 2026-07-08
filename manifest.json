@@ -1,14 +1,14 @@
 {
-    "id": "salam",
-    "name": "Salam",
-    "short_name": "Salam",
-    "start_url": "/salam/",
-    "scope": "/salam/",
+    "id": "fili-di-pace",
+    "name": "Fili di pace",
+    "short_name": "Fili di pace",
+    "start_url": "/fili-di-pace/",
+    "scope": "/fili-di-pace/",
     "display": "standalone",
     "gcm_sender_id": "482941778795",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "description": "Salam",
+    "description": "Fili di pace",
     "icons": [
         {
             "src": "pwa-64x64.png",
